@@ -14,3 +14,9 @@ int main(void)
         return 0;
     }
 ```
+>running it right now!!
+
+The types of several values in C language
+eg. | int | float | double | char |
+:-:|:-:|:-:|:-:|:-:
+eg. |5,6|1.0,2.1|6.666,5.555|a|
